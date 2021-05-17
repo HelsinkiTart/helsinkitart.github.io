@@ -1,1 +1,8 @@
+# Config file for my blog
+
+# Theme config
 theme: jekyll-theme-minimal
+
+name: HelsinkiTart
+
+description: NetDevOps
