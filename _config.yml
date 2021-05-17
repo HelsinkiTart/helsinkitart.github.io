@@ -1,1 +1,10 @@
+#
+# Default config
+#
+title: HelsinkiTart's Blog!
+email:
+description: Cool description
+#twitter_username: 
+github_username: HelsinkiTart
+
 theme: jekyll-theme-minimal
